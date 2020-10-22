@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace RPG
 {
@@ -6,7 +7,7 @@ namespace RPG
     {
         static void Main(string[] args)
         {
-            
+            List<Character> characters = new List<Character>();
         }
     }
 }
